@@ -10,8 +10,8 @@ The problem statement is a Five stage slippery walk where there are five stages 
 The states include two terminal states: 0-Hole[H] and 6-Goal[G]. It has five non terminal states includin starting state.
 
 ## Action Space:
-Left:0
-Right:1
+  * Left:0
+  * Right:1
 ## Transition Probability:
 The transition probabilities for the problem statement is:
 
